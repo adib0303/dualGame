@@ -1,0 +1,1 @@
+g++ copyofMain.cpp Knight.cpp Queen.cpp sdlshape.cpp Bishop.cpp credit.cpp main.cpp starter.cpp GameState.cpp mainofchess.cpp Rook.cpp States.cpp Button.cpp Graphics.cpp Texture.cpp GUIBoard.cpp Pawn.cpp sdlevent.cpp chess.cpp King.cpp Piece.cpp sdlrender.cpp -lSDL2 -lSDL2_ttf -lSDL2_image
